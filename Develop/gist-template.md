@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Northwestern University Challenge 17
 
 This exercise is for Northwestern University Boot Camp's Challenge 17, which is to desscribe a fairly complex regular expression in detail.
 
